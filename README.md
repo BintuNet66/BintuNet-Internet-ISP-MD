@@ -1,10 +1,10 @@
-<h1 align="center"> SKIPPER-MD </h1>
-<p align="center"> SKIPPER-MD, A Simple WhatsApp user BOT, Created by Tonny 408.
+<h1 align="center"> BintuNet Internet-ISP</h1>
+<p align="center"> BintuNet-MD, A Simple WhatsApp user BOT, Created by BintuNet Internet-ISP 408.
 </p>
 
 
 
-<img src="https://telegra.ph/file/e78fcfd78dd8f2f3f6d8e.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/3143157c8d2617481fc89.jpg" width="700" height="300"/>
 
 
 ### Setup
